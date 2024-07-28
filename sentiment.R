@@ -75,7 +75,7 @@ appname <- "statappsentiment"
 ## api key 
 key <- ""
 ## api secret 
-secret <- ""Mmvwmab5aS44KqbfRG1u1xrKJkNoLMRfqKlhrKFhjkcku8JAUN""
+secret <- "" ""
 twitter_token <- create_token(app = appname, consumer_key = key, consumer_secret = secret)
 
 # start using rtweet package instead
